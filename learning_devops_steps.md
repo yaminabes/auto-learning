@@ -13,3 +13,6 @@ ngnix, web server and database
 5. pushing the app in the cloud
 6. cicd woth github actions 
 
+## Ressources 
+### Vagrant
+[cybercity.biz article](https://www.cyberciti.biz/cloud-computing/use-vagrant-to-create-small-virtual-lab-on-linux-osx/)
